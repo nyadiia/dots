@@ -1,0 +1,4 @@
+waybar &
+swayosd-server &
+wl-paste --watch cliphist store &
+swww init
